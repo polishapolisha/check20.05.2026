@@ -1,0 +1,65 @@
+﻿{
+  "version": "1.0",
+  "branchId": "30ab6f0e-9e42-4def-b105-e1afbfa86843",
+  "branchName": "пуки",
+  "repositoryName": "PLS WORK",
+  "exportedAt": "2026-05-22T18:48:57.7057726Z",
+  "objectTypes": [
+    {
+      "id": "5d824e09-327f-4dba-b018-16719611dbe8",
+      "code": "DIAMETER_INTERNAL",
+      "name": "пппкк",
+      "description": null,
+      "category": "string",
+      "parentId": null,
+      "parent": null,
+      "children": null,
+      "iconId": "a926c1bb-50c5-4556-bcab-a9abffbe19f4",
+      "icon": null,
+      "isAbstract": false,
+      "createdAt": "2026-05-22T18:47:36.709856Z",
+      "updatedAt": "2026-05-22T18:48:08.833878Z",
+      "parameters": null,
+      "referencedByParameters": null,
+      "branchId": "30ab6f0e-9e42-4def-b105-e1afbfa86843",
+      "branch": null
+    }
+  ],
+  "typeParameters": [],
+  "units": [
+    {
+      "id": "a0fea25d-f2d1-4230-9ae7-d01f86de4049",
+      "code": "LENGTH111",
+      "name": "Диаметр",
+      "symbol": "rv",
+      "dimension": "DF",
+      "siUnitId": null,
+      "siUnit": null,
+      "derivedUnits": null,
+      "conversionFactor": 1,
+      "isBase": true,
+      "createdAt": "2026-05-22T18:48:36.883785Z",
+      "updatedAt": "2026-05-22T18:48:36.88381Z",
+      "parameters": null,
+      "branchId": "30ab6f0e-9e42-4def-b105-e1afbfa86843",
+      "branch": null
+    }
+  ],
+  "images": [
+    {
+      "id": "a926c1bb-50c5-4556-bcab-a9abffbe19f4",
+      "title": null,
+      "fileName": "DSC01641.JPG",
+      "filePath": "DSC01641.JPG",
+      "mimeType": "image/jpeg",
+      "fileSize": 3818932,
+      "width": 2736,
+      "height": 3648,
+      "usageType": "icon",
+      "uploadedAt": "2026-05-22T18:47:58.617289Z",
+      "iconForTypes": null,
+      "branchId": "30ab6f0e-9e42-4def-b105-e1afbfa86843",
+      "branch": null
+    }
+  ]
+}
