@@ -3,7 +3,7 @@
   "branchId": "30ab6f0e-9e42-4def-b105-e1afbfa86843",
   "branchName": "пуки",
   "repositoryName": "PLS WORK",
-  "exportedAt": "2026-05-29T18:46:33.8553418Z",
+  "exportedAt": "2026-05-29T18:47:53.8930531Z",
   "objectTypes": [
     {
       "id": "5d824e09-327f-4dba-b018-16719611dbe8",
@@ -14,7 +14,7 @@
       "parentId": null,
       "parent": null,
       "children": null,
-      "iconId": "a926c1bb-50c5-4556-bcab-a9abffbe19f4",
+      "iconId": null,
       "icon": null,
       "isAbstract": false,
       "createdAt": "2026-05-22T18:47:36.709856Z",
@@ -25,7 +25,36 @@
       "branch": null
     }
   ],
-  "typeParameters": [],
+  "typeParameters": [
+    {
+      "id": "de1c4131-31c2-4d10-84d1-f9c78b29a7da",
+      "objectTypeId": "5d824e09-327f-4dba-b018-16719611dbe8",
+      "objectType": null,
+      "code": "LENGTH111",
+      "name": "Диаметр",
+      "description": null,
+      "dataType": "int",
+      "unitId": "76239904-0703-4312-8e93-d2d2422ea742",
+      "unit": null,
+      "defaultValue": "34",
+      "minValue": null,
+      "maxValue": null,
+      "isRequired": false,
+      "isReadonly": false,
+      "displayOrder": 0,
+      "enumValues": null,
+      "referenceTypeId": null,
+      "referenceType": null,
+      "compositeParameterId": null,
+      "compositeParameter": null,
+      "compositeChildren": null,
+      "isCompositeRoot": false,
+      "createdAt": "2026-05-29T18:47:36.164728Z",
+      "updatedAt": "2026-05-29T18:47:36.267248Z",
+      "branchId": "30ab6f0e-9e42-4def-b105-e1afbfa86843",
+      "branch": null
+    }
+  ],
   "units": [
     {
       "id": "a0fea25d-f2d1-4230-9ae7-d01f86de4049",
@@ -43,23 +72,24 @@
       "parameters": null,
       "branchId": "30ab6f0e-9e42-4def-b105-e1afbfa86843",
       "branch": null
-    }
-  ],
-  "images": [
+    },
     {
-      "id": "a926c1bb-50c5-4556-bcab-a9abffbe19f4",
-      "title": null,
-      "fileName": "DSC01641.JPG",
-      "filePath": "DSC01641.JPG",
-      "mimeType": "image/jpeg",
-      "fileSize": 3818932,
-      "width": 2736,
-      "height": 3648,
-      "usageType": "icon",
-      "uploadedAt": "2026-05-22T18:47:58.617289Z",
-      "iconForTypes": null,
+      "id": "76239904-0703-4312-8e93-d2d2422ea742",
+      "code": "HHHHHHH",
+      "name": "string",
+      "symbol": "rv",
+      "dimension": "Length",
+      "siUnitId": null,
+      "siUnit": null,
+      "derivedUnits": null,
+      "conversionFactor": 1,
+      "isBase": true,
+      "createdAt": "2026-05-29T18:47:10.247064Z",
+      "updatedAt": "2026-05-29T18:47:10.247103Z",
+      "parameters": null,
       "branchId": "30ab6f0e-9e42-4def-b105-e1afbfa86843",
       "branch": null
     }
-  ]
+  ],
+  "images": []
 }
