@@ -3,8 +3,28 @@
   "branchId": "54495e75-1a3c-4d10-82e3-1a94666b116a",
   "branchName": "main",
   "repositoryName": "PLS WORK",
-  "exportedAt": "2026-05-30T20:16:55.5855327Z",
-  "objectTypes": [],
+  "exportedAt": "2026-05-30T20:17:30.3258665Z",
+  "objectTypes": [
+    {
+      "id": "2173f8e5-cd99-406a-8d72-a1f7b28f64f3",
+      "code": "LENGTH111",
+      "name": "Нол",
+      "description": null,
+      "category": null,
+      "parentId": null,
+      "parent": null,
+      "children": null,
+      "iconId": null,
+      "icon": null,
+      "isAbstract": true,
+      "createdAt": "2026-05-30T20:17:22.289236Z",
+      "updatedAt": "2026-05-30T20:17:22.292879Z",
+      "parameters": null,
+      "referencedByParameters": null,
+      "branchId": "54495e75-1a3c-4d10-82e3-1a94666b116a",
+      "branch": null
+    }
+  ],
   "typeParameters": [],
   "units": [
     {
@@ -20,23 +40,6 @@
       "isBase": true,
       "createdAt": "2026-05-30T20:16:37.387634Z",
       "updatedAt": "2026-05-30T20:16:37.38767Z",
-      "parameters": null,
-      "branchId": "54495e75-1a3c-4d10-82e3-1a94666b116a",
-      "branch": null
-    },
-    {
-      "id": "01d3328c-592c-4eb4-bdaa-f274b31898ef",
-      "code": "CODE-TEST-FIXED",
-      "name": "string",
-      "symbol": "rv",
-      "dimension": "Length",
-      "siUnitId": null,
-      "siUnit": null,
-      "derivedUnits": null,
-      "conversionFactor": 1,
-      "isBase": true,
-      "createdAt": "2026-05-30T20:16:47.297793Z",
-      "updatedAt": "2026-05-30T20:16:47.297793Z",
       "parameters": null,
       "branchId": "54495e75-1a3c-4d10-82e3-1a94666b116a",
       "branch": null
